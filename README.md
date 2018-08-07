@@ -1,7 +1,7 @@
 # Mastering CSS Grid! - TO DO
 
 ## Goal
-Use the grid below as a model of how to structure your `index.html` page.
+Use the image below as a model of how to structure your `index.html` page.
 
 ![profile grid](profile-grid.png)
 
